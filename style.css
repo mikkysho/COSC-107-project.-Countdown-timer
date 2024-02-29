@@ -1,0 +1,24 @@
+body {
+    background-color: aqua;
+    font-family: Arial, sans-serif;
+  }
+  
+  .countdown-container {
+    text-align: center;
+    width: 800px;
+  }
+.img{
+    width: 350px;
+    border-radius: 20px;
+  }
+  #class{
+    text-align: center;
+    color: black  ;
+  }
+  .container{
+    display: flex;
+    margin: 30px;
+  }
+  .dummy{
+    margin: 30px;
+  }
